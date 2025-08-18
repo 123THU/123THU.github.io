@@ -16,6 +16,8 @@ redirect_from:
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
 <span class='anchor' id='about-me'></span>
+<span style="color:red; font-size: 100%">**Actively Empoying 26 Fall Master's Mentors**</span>
+
 # 👋 About Me
 
 Hi, everyone! I am a junior undergraduate student... That's all, thank you.
