@@ -30,7 +30,7 @@ Hi, everyone! I am a junior undergraduate student... That's all, thank you.
 # 📝 Publications 
 
 # 🎖 Honors and Awards
-- Provincial Excellent Student（Top 0.5%), 2025
+- *2025.06*: Provincial Excellent Student（Top 0.5%)
 
 # 📖 Educations
 
