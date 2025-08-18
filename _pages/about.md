@@ -24,13 +24,17 @@ Hi, everyone! I am a junior undergraduate student... That's all, thank you.
 
 
 # 🔥 News
+- Proactively applied and served as an external reviewer for PRCV 2025.
+
 
 # 📝 Publications 
 
 # 🎖 Honors and Awards
+- Provincial Excellent Student（Top 0.5%), 2025
 
 # 📖 Educations
 
 # 🏆 Academic Services
+- External Reviewer, PRCV 2025
 
 # 💻 Internships
