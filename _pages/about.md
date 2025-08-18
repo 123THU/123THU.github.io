@@ -29,6 +29,6 @@ Hi, everyone! I am a junior undergraduate student... That's all, thank you.
 
 # 📖 Educations
 
-# 💬 Invited Talks
+# 🏆 Competitions
 
 # 💻 Internships
