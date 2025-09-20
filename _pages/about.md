@@ -34,7 +34,7 @@ Hi, everyone! I am a junior undergraduate student... That's all, thank you.
 - *2025.06*: Provincial Excellent Student（Top 0.5%)
 
 # 📖 Education
-- *2026.09 - 2029.06*, [Xiamen University (MAC Lab)](https://mac.xmu.edu.cn/), China. M.Sc. in Artificial Intelligence.
+- 
 
 # 🏆 Academic Services
 - External Reviewer, PRCV 2025
