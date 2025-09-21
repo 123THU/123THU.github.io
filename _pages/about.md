@@ -34,7 +34,7 @@ Hi, everyone! I am a junior undergraduate student... That's all, thank you.
 - *2025.06*: Provincial Excellent Student（Top 0.5%)
 
 # 📖 Education
-- - *2026.09 - 2029.06*, [Northeastern University (NEUIR Lab)](https://neuir.github.io/), China. M.Sc. in Computer Science.
+- *2026.09 - 2029.06*, [Northeastern University (NEUIR Lab)](https://neuir.github.io/), China. M.Sc. in Computer Science.
 
 # 🏆 Academic Services
 - External Reviewer, PRCV 2025
