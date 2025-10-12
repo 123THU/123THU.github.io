@@ -40,7 +40,7 @@ Hi, everyone! I am a senior undergraduate student, soon to begin my first year o
 - External Reviewer, PRCV 2025
 
 # 💻 Internships
-- *2024.11 - 2025.11*, Peking University, Beijing, China
+- 
 <!-- <span style=" color: red; font-size: 100%">**Actively seeking opportunities as a research assistant or intern, with experience in data annotation, coding, and academic writing.  
 I am highly motivated and dedicated, open to various research tasks, and available for a commitment of at least 6 months.  
 If you are interested in my profile or have relevant opportunities, please feel free to contact me via email**</span> -->
