@@ -31,7 +31,7 @@ Hi, everyone! I am a senior undergraduate student, soon to begin my first year o
 - 
 
 # 🎖 Honors and Awards
-- *2025.06*: Provincial Excellent Student（Top 0.25%)
+- *2025.06*: Provincial Excellent Student（Top 0.3%)
 
 # 📖 Education
 - *2026.09 - 2029.06*, Northeastern University [(NEUIR Lab)](https://neuir.github.io/), China. M.Sc. in Computer Science.
