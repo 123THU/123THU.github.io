@@ -20,7 +20,7 @@ redirect_from:
 
 # 👋 About Me
 
-Hi, everyone! I am a senior undergraduate student, soon to begin my first year of graduate school in [Northeastern University](https://www.neu.edu.cn/), Shenyang, China, working under the supervision of [Prof. Zhenghao Liu](https://edwardzh.github.io/). 
+Hi, everyone! I am a senior undergraduate student, soon to begin my first year of graduate school in [Northeastern University](https://www.neu.edu.cn/), Shenyang, China, working under the supervision of [Prof. Zhenghao Liu](https://edwardzh.github.io/).   
 My research interests lie in Natural Language Processing (NLP) and AI4Science... That's all, thank you.
 
 
