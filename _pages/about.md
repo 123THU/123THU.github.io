@@ -23,7 +23,7 @@ redirect_from:
 Hi, everyone! I am a senior undergraduate student, soon to begin my first year of graduate school in [Northeastern University](https://www.neu.edu.cn/), Shenyang, China, working under the supervision of [Prof. Zhenghao Liu](https://edwardzh.github.io/).   
 My research interests lie in Natural Language Processing (NLP), and currently I'm curious about AI4Bio... That's all, thank you.
 
-**<span style=" color: red; font-size: 100%">I am preparing to apply for PhD programs in the U.S. for Fall 2029 or later and am actively seeking research internship opportunities(available after June 2026). If you're interested in my work, please feel free to email!</span>**
+**<span style=" color: red; font-size: 100%">I am preparing to apply for PhD programs in the U.S. for Fall 2029 or later and am actively seeking research internship opportunities (available after June 2026). If you're interested in my work, please feel free to email!</span>**
 
 # 🔥 News
 - Proactively applied and served as an external reviewer for PRCV 2025.
