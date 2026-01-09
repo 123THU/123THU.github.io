@@ -33,7 +33,7 @@ My research interests lie in Natural Language Processing (NLP), and currently I'
 - 
 
 # 🎖 Honors and Awards
-- <!-- *2025.06*: Provincial Excellent Student （Top 0.3% \| GPA: rank 1 \| CET-6: 626)-->
+- *2025.06*: Provincial Excellent Student （Top 0.3% \| GPA: rank 1 \| CET-6: 626)
 
 # 📖 Education
 - *2026.09 - 2029.06*, Northeastern University [(NEUIR Lab)](https://neuir.github.io/), China. M.Sc. in Computer Science.
