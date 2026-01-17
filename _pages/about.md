@@ -42,7 +42,7 @@ My research interests lie in Natural Language Processing (NLP), and currently I'
 - External Reviewer, PRCV 2025
 
 # 💻 Internships
-- *2025.12 - 2026.06(expected)*, Westlake University [(Medai Lab)](https://medai.lab.westlake.edu.cn/), Hangzhou, China (AI4Bio)
+- *2025.12 - 2026.06(expected)*, Westlake University [(Medai Lab)](https://medai.lab.westlake.edu.cn/), Hangzhou, China (AI4Bio, on-site)
 <!-- <span style=" color: red; font-size: 100%">**Actively seeking opportunities as a research assistant or intern, with experience in data annotation, coding, and academic writing.  
 I am highly motivated and dedicated, open to various research tasks, and available for a commitment of at least 6 months.  
 If you are interested in my profile or have relevant opportunities, please feel free to contact me via email**</span> -->
